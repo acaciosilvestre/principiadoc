@@ -1,0 +1,22 @@
+
+
+	D1. A propositional symbol is a name and it's meaning some arbitrary integer.
+	By convention, every propositional symbol will be assigned by it's index.  If
+	Xi is a propositional symbol, then
+	
+	
+			Xi = i
+			
+			
+	D2. Negation
+	
+	Xi negation is defined as:
+	
+			~Xi = -i -1
+				= -(i + 1)
+				
+	
+	
+				
+				
+	
