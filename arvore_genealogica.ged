@@ -332,6 +332,7 @@
 0 @I21@ INDI
 1 NAME Maria de Lourdes /Ribeiro/
 1 SEX F
+1 SOUR 20060625 - Maria de Lourdes Borges Ribeiro - Certidão de Óbito.pdf
 1 BIRT
 2 DATE 15 NOV 1927
 2 PLAC São Vicente Ferrer, Turvo, Minas Gerais, Brazil
@@ -344,12 +345,14 @@
 0 @I22@ INDI
 1 NAME Nelson Borges /Ribeiro/
 1 SEX M
+1 SOUR 20060625 - Maria de Lourdes Borges Ribeiro - Certidão de Óbito.pdf
 1 BIRT
 2 DATE 1929
 2 PLAC São Sebastião da Vitoria, São João del Rei, Minas Gerais, Brazil
 1 DEAT
 2 DATE 1986
 2 PLAC Jabaquara, São Paulo, São Paulo, Brazil
+1 FAMC @F73@
 1 FAMS @F5@
 0 @I23@ INDI
 1 NAME Terezinha Sergia /Ribeiro/
@@ -1795,6 +1798,8 @@
 0 @I137@ INDI
 1 NAME Delfina Eleutéria de /Araújo/
 1 SEX F
+1 SOUR 18610310 - Delfina - batismo.pdf
+1 NOTE padrinhos: José Francisco de Carvalho e Maria Petronilha de Araújo
 1 BIRT
 2 DATE 10 MAR 1861
 2 PLAC Madre de Deus de Minas, Minas Gerais, Brazil
@@ -1893,6 +1898,8 @@
 1 SOUR 18400816 - José Alves Ribeiro e família - Relação de Habitantes de Madre de Deus.pdf
 1 SOUR 18671020 - Maria Cândida da Conceição - batismo.pdf
 1 SOUR 18770517 - Francisco Alves Ribeiro e Ana Ribeiro de Jesus - casamento.pdf
+1 ASSO @I2065@
+2 TYPE ESCRAVIZADO
 1 BIRT
 2 DATE 1824
 2 PLAC Minas Gerais, Brazil
@@ -2166,6 +2173,9 @@
 1 DEAT
 2 DATE 30 JUL 1965
 2 PLAC São Paulo, São Paulo, Brazil
+1 OCCU lavrador
+2 DATE 2 NOV 1943
+2 PLAC povoado da Capela do Rio Grande, Minas gerais, Brasil
 1 FAMC @F67@
 1 FAMS @F73@
 0 @I168@ INDI
@@ -2174,6 +2184,8 @@
 1 SOUR 18960429 - Mercedes - batismo.pdf
 1 SOUR 19790212 - casamento de Paulo Borges e Maria Albertina.pdf
 1 SOUR 19510519 - Mercedes Borges de Oliviera - óbito.pdf
+1 SOUR 19091933 - Mercedes Borges de Oliveira.pdf
+1 NOTE causa da morte: edema agudo de pulmão e hipertensão arterial
 1 BIRT
 2 DATE 29 APR 1896
 2 PLAC São João del Rei, Minas Gerais, Brazil
@@ -2185,6 +2197,9 @@
 2 PLAC São Paulo, Brazil
 1 EVEN
 2 DATE 19 MAY 1951
+1 OCCU professora pública
+2 DATE 2 NOV 1943
+2 PLAC povoado da Capela do Rio Grande, Minas Gerais, Brasil
 1 FAMS @F73@
 0 @I169@ INDI
 1 NAME Antônio Ribeiro da /Silva/
@@ -2859,6 +2874,7 @@
 1 SOUR 18000310 - José Alves Ribeiro  - batismo.pdf
 1 SOUR 18400816 - José Alves Ribeiro e família - Relação de Habitantes de Madre de Deus.pdf
 1 SOUR 18600810 - Casamento de José Alves Ribeiro e Antônia Maria Theodora.pdf
+1 SOUR 18540701 - procuração José Alves Ribeiro e Maria Venância Bernardina de Jesus.pdf
 1 BIRT
 2 PLAC São João del Rei, Minas Gerais, Brazil
 1 CHR
@@ -2874,6 +2890,7 @@
 1 SOUR 18040708 - Venancia Bernardina de Jesus - batismo.pdf
 1 SOUR 18400816 - José Alves Ribeiro e família - Relação de Habitantes de Madre de Deus.pdf
 1 SOUR MANOEL ALVES VALLE.pdf
+1 SOUR 18540701 - procuração José Alves Ribeiro e Maria Venância Bernardina de Jesus.pdf
 1 CHR
 2 DATE 8 JUL 1804
 2 PLAC Minas Gerais, Brazil
@@ -19958,6 +19975,14 @@
 1 SOUR 18560000 - Bernardino José Sandim - terras.pdf
 1 SOUR 18560000 - Francisca Iria e Bernardino José Sandim - terras.pdf
 1 SOUR 18420123 - Diário do Comércio - abaixo assinado.pdf
+1 ASSO @I2063@
+2 TYPE ESCRAVIZADO
+1 ASSO @I2067@
+2 TYPE ESCRAVIZADO
+1 ASSO @I2069@
+2 TYPE ESCRAVIZADO
+1 ASSO @I2070@
+2 TYPE ESCRAVIZADO
 1 BIRT
 2 DATE 1811
 2 PLAC Minas Gerais, Brasil
@@ -20026,10 +20051,12 @@
 0 @I1704@ INDI
 1 NAME João Gualberto de /Araujo/
 1 SEX M
+1 SOUR 19020212 - Esboço de partilha - João Gualberto de Araújo.pdf
 1 DEAT
 2 DATE 1902
 2 PLAC Minas Gerais, Brasil
 1 FAMC @F749@
+1 FAMS @F837@
 0 @I1705@ INDI
 1 NAME Josefina De /Araújo/
 1 SEX F
@@ -21923,6 +21950,7 @@
 1 SOUR 18731202 - José Heráclides de Carvalho - batismo.pdf
 1 SOUR 18890706 - José Heráclides e Serafina.pdf
 1 SOUR 19011118 - José Heráclides de Carvaho - casamento.pdf
+1 SOUR 19020212 - Esboço de partilha - João Gualberto de Araújo.pdf
 1 BIRT
 2 DATE 2 DEZ 1873
 2 PLAC Madre de Deus, Minas Gerais, Brasil
@@ -23382,6 +23410,81 @@
 2 TYPE SENHOR
 1 BIRT
 2 DATE ABT 1806
+0 @I2063@ INDI
+1 NAME Antônia
+1 SEX F
+1 SOUR 18700821 - Antônia - batismo.pdf
+1 ASSO @I1698@
+2 TYPE SENHOR
+1 BIRT
+2 DATE 21 AGO 1870
+2 PLAC Madre de Deus, Minas Gerais, Brasil
+0 @I2064@ INDI
+1 NAME Antônio
+1 SEX M
+1 SOUR 18710108 - Antônio filho de Silvéria.pdf
+1 BIRT
+2 DATE 8 JAN 1871
+2 PLAC Madre de Deus, Minas Gerais, Brasil
+1 FAMC @F834@
+0 @I2065@ INDI
+1 NAME Silvéria
+1 SEX F
+1 SOUR 18710108 - Antônio filho de Silvéria.pdf
+1 ASSO @I146@
+2 TYPE SENHOR
+1 FAMS @F834@
+0 @I2066@ INDI
+1 NAME Paula
+1 SEX F
+1 SOUR 18610203 - Paula - batismo.pdf
+1 BIRT
+2 DATE 3 FEV 1861
+2 PLAC Madre de Deus, Minas Gerais, Brasil
+1 FAMC @F835@
+0 @I2067@ INDI
+1 NAME Zormira
+1 SEX F
+1 SOUR 18610203 - Paula - batismo.pdf
+1 ASSO @I1698@
+2 TYPE SENHOR
+1 FAMS @F835@
+0 @I2068@ INDI
+1 NAME Francisca
+1 SEX F
+1 SOUR 18620303 - Francisca filha de Maria.pdf
+1 BIRT
+2 DATE 3 MAR 1862
+2 PLAC Madre de Deus, Minas Gerais, Brasil
+1 FAMC @F836@
+0 @I2069@ INDI
+1 NAME Maria
+1 SEX F
+1 SOUR 18620303 - Francisca filha de Maria.pdf
+1 ASSO @I1698@
+2 TYPE SENHOR
+1 FAMS @F836@
+0 @I2070@ INDI
+1 NAME João
+1 SEX M
+1 SOUR 18620303 - Francisca filha de Maria.pdf
+1 NOTE padrinho de Francisca filha de Maria, escravizada de Bernardino José Gomes Sandim
+1 ASSO @I1698@
+2 TYPE SENHOR
+0 @I2071@ INDI
+1 NAME Marianna Cândida de /Carvalho/
+1 SEX F
+1 SOUR 19020212 - Esboço de partilha - João Gualberto de Araújo.pdf
+1 NOTE também conhecida como Marianna Cândida da Fonseca
+1 FAMS @F837@
+0 @I2072@ INDI
+1 NAME Hélio Borges /Ribeiro/
+1 SEX M
+1 SOUR 19431102 - Helio Borges Ribeiro - nascimento.pdf
+1 BIRT povoação da Capela do Rio Grande
+2 DATE 2 NOV 1943
+2 PLAC Cianita, Andrelândia, Minas Gerais, Brasil
+1 FAMC @F73@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -23854,6 +23957,8 @@
 0 @F73@ FAM
 1 HUSB @I167@
 1 WIFE @I168@
+1 CHIL @I22@
+1 CHIL @I2072@
 1 MARR
 2 DATE 3 de novembro de 1923
 2 PLAC Conceicao da Barra de Minas, Minas Gerais, Brasil
@@ -28731,5 +28836,18 @@
 1 HUSB @I2047@
 1 WIFE @I2048@
 1 CHIL @I2046@
+1 MARR
+0 @F834@ FAM
+1 WIFE @I2065@
+1 CHIL @I2064@
+0 @F835@ FAM
+1 WIFE @I2067@
+1 CHIL @I2066@
+0 @F836@ FAM
+1 WIFE @I2069@
+1 CHIL @I2068@
+0 @F837@ FAM
+1 HUSB @I1704@
+1 WIFE @I2071@
 1 MARR
 0 TRLR
