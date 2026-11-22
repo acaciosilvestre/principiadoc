@@ -1660,6 +1660,7 @@
 1 SOUR 18400816 - Madre de Deus - censo.pdf
 1 SOUR 18370204 - José Ignácio Alves Lima - Juiz de Paz em Madre de Deus.pdf
 1 SOUR 18420217 - José Ignacio assina manifesto sobre revolta de 1842 - O Maiorista.pdf
+1 SOUR 18831019 - O Arauto de Minas - Ano VII No. 31.pdf
 1 NOTE 1856 - Registro de terras: Capão das Antas, Retiro Velho e Carumbé.
 1 NOTE Conteúdo da edição "O Astro de Minas". A página (número 4) traz um edital da Câmara Municipal de São João del-Rei datado de 28 de janeiro de 1837. O texto lista os cidadãos juramentados e empossados no cargo de Juiz de Paz nos diversos distritos da vila (como Distrito da Vila, Cajuru, Santo Antônio do Rio das Mortes, Piedade do Rio Grande, Madre de Deus, Carrancas, Nazaré, entre outros), correspondente à edição nº 1433, publicada em 4 de fevereiro de 1837.
 1 ASSO @I1972@
@@ -1789,6 +1790,8 @@
 0 @I136@ INDI
 1 NAME Antônio Ignácio Alves /Lima/
 1 SEX M
+1 SOUR 18950407 - O Amigo do Povo - Ano V Ed 160.pdf
+1 SOUR 18920529 - O Amigo do Povo.pdf
 1 BIRT
 2 DATE 26 APR 1852
 2 PLAC Madre de Deus de Minas, Minas Gerais, Brazil
@@ -1901,6 +1904,8 @@
 1 SOUR 18671020 - Maria Cândida da Conceição - batismo.pdf
 1 SOUR 18770517 - Francisco Alves Ribeiro e Ana Ribeiro de Jesus - casamento.pdf
 1 SOUR 18770923 - batismo de João.pdf
+1 SOUR 18810413 - O Arauto de Minas Ed6.pdf
+1 SOUR 18810612 - O Arauto de Minas Ed14.pdf
 1 ASSO @I2065@
 2 TYPE ESCRAVIZADO
 1 BIRT
@@ -2879,6 +2884,8 @@
 1 SOUR 18400816 - José Alves Ribeiro e família - Relação de Habitantes de Madre de Deus.pdf
 1 SOUR 18600810 - Casamento de José Alves Ribeiro e Antônia Maria Theodora.pdf
 1 SOUR 18540701 - procuração José Alves Ribeiro e Maria Venância Bernardina de Jesus.pdf
+1 SOUR 18320605 - O Astro de Minas.pdf
+1 SOUR 18390525 - O Astro de Minas.pdf
 1 BIRT
 2 PLAC São João del Rei, Minas Gerais, Brazil
 1 CHR
@@ -19994,6 +20001,10 @@
 2 TYPE ESCRAVIZADO
 1 ASSO @I2070@
 2 TYPE ESCRAVIZADO
+1 ASSO @I2077@
+2 TYPE ESCRAVIZADO
+1 ASSO @I2078@
+2 TYPE ESCRAVIZADO
 1 BIRT
 2 DATE 1811
 2 PLAC Minas Gerais, Brasil
@@ -20063,6 +20074,10 @@
 1 NAME João Gualberto de /Araujo/
 1 SEX M
 1 SOUR 19020212 - Esboço de partilha - João Gualberto de Araújo.pdf
+1 SOUR 18950407 - O Amigo do Povo - Ano V Ed 160.pdf
+1 SOUR 18920529 - O Amigo do Povo.pdf
+1 SOUR 18930820 - O Amigo do Povo.pdf
+1 SOUR 18950113 - O Amigo do Povo.pdf
 1 DEAT
 2 DATE 1902
 2 PLAC Minas Gerais, Brasil
@@ -22670,6 +22685,7 @@
 1 NAME Venâncio
 1 SEX M
 1 SOUR 18620928 - batismo de Mariana filha de Venâncio e Marcelina.pdf
+1 SOUR 18831019 - O Arauto de Minas - Ano VII No. 31.pdf
 1 ASSO @I129@
 2 TYPE SENHOR
 1 FAMS @F816@
@@ -22677,6 +22693,7 @@
 1 NAME Marcelina
 1 SEX F
 1 SOUR 18620928 - batismo de Mariana filha de Venâncio e Marcelina.pdf
+1 SOUR 18831019 - O Arauto de Minas - Ano VII No. 31.pdf
 1 ASSO @I129@
 2 TYPE SENHOR
 1 FAMS @F816@
@@ -23530,6 +23547,20 @@
 2 DATE 25 SET 1853
 2 PLAC Turvo, Minas Gerais, Brasil
 1 FAMC @F61@
+0 @I2077@ INDI
+1 NAME Felippe
+1 SEX M
+1 SOUR 18831019 - O Arauto de Minas - Ano VII No. 31.pdf
+1 ASSO @I1698@
+2 TYPE SENHOR
+1 FAMS @F839@
+0 @I2078@ INDI
+1 NAME Josepha
+1 SEX F
+1 SOUR 18831019 - O Arauto de Minas - Ano VII No. 31.pdf
+1 ASSO @I1698@
+2 TYPE SENHOR
+1 FAMS @F839@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -28899,5 +28930,9 @@
 0 @F838@ FAM
 1 HUSB @I2073@
 1 WIFE @I2074@
+1 MARR
+0 @F839@ FAM
+1 HUSB @I2077@
+1 WIFE @I2078@
 1 MARR
 0 TRLR
