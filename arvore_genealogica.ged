@@ -274,6 +274,8 @@
 1 SEX F
 1 SOUR 19230402 - Hildebrando Alves Ribeiro Casamento - Certidão.pdf
 1 SOUR 19640318 - Zeferina Sergia de Jesus - Certidão de Óbito.pdf
+1 SOUR 19200704 - Maria - batismo.pdf
+1 SOUR 19201030 - batismo de José.pdf
 1 _MEM Zeferina Sergia de Jesus - Maria Salomé de Carvalho e José Eugênio Ribeiro.jpg
 1 BIRT
 2 DATE 9 SEP 1905
@@ -1898,6 +1900,7 @@
 1 SOUR 18400816 - José Alves Ribeiro e família - Relação de Habitantes de Madre de Deus.pdf
 1 SOUR 18671020 - Maria Cândida da Conceição - batismo.pdf
 1 SOUR 18770517 - Francisco Alves Ribeiro e Ana Ribeiro de Jesus - casamento.pdf
+1 SOUR 18770923 - batismo de João.pdf
 1 ASSO @I2065@
 2 TYPE ESCRAVIZADO
 1 BIRT
@@ -1916,6 +1919,7 @@
 1 NAME Marcellina Maria de /Jesus/
 1 SEX F
 1 SOUR 18510401 - Thereza Antonia de Souza - inventário.pdf
+1 SOUR 18770923 - batismo de João.pdf
 1 BIRT
 2 DATE ABT 1829
 2 PLAC Minas Gerais, Brazil
@@ -3509,6 +3513,7 @@
 1 SOUR 18530703 - testamento Maria Ribeiro de Jesus pt3.jpg
 1 SOUR 17990506 - José Alves Lima e Maria Ribeiro de Jesus - casamento.jpg
 1 SOUR 17810120 - Maria Ribeiro de Jesus - batismo.pdf
+1 SOUR 18590527 - testamento e inventário de Maria Ribeiro de Jesus.pdf
 1 BIRT
 2 DATE 1781
 2 PLAC Madre de Deus de Minas, Minas Gerais, Brazil
@@ -3629,6 +3634,12 @@
 1 SOUR 18300627 - Maria Fernandes de São José - sepultamento e testamento.pdf
 1 SOUR 18300627 - Maria Fernandes de São José - testamento cont e aditamento.pdf
 1 SOUR 18050916 - Alferes João Alves Pedrosa - inventário.pdf
+1 ASSO @I2073@
+2 TYPE ESCRAVIZADO
+1 ASSO @I2074@
+2 TYPE ESCRAVIZADO
+1 ASSO @I2075@
+2 TYPE ESCRAVIZADO
 1 BIRT
 2 DATE 1760
 2 PLAC Santo Antônio da Ibertioga, Barbacena, Minas Gerais, Brazil
@@ -23485,6 +23496,40 @@
 2 DATE 2 NOV 1943
 2 PLAC Cianita, Andrelândia, Minas Gerais, Brasil
 1 FAMC @F73@
+0 @I2073@ INDI
+1 NAME Joaquim
+1 SEX M
+1 SOUR 18300627 - Maria Fernandes de São José - sepultamento e testamento.pdf
+1 NOTE de nação rebolo
+1 NOTE tornou-se forro no testamento de Maria Fernandes
+1 ASSO @I294@
+2 TYPE SENHOR
+1 FAMS @F838@
+0 @I2074@ INDI
+1 NAME Maria
+1 SEX F
+1 SOUR 18300627 - Maria Fernandes de São José - sepultamento e testamento.pdf
+1 NOTE de nação rebolo
+1 NOTE tornou-se forra no testamento de Maria Fernandes
+1 ASSO @I294@
+2 TYPE SENHOR
+1 FAMS @F838@
+0 @I2075@ INDI
+1 NAME Marianna
+1 SEX F
+1 SOUR 18300627 - Maria Fernandes de São José - sepultamento e testamento.pdf
+1 NOTE de nação Benguella
+1 NOTE tornou-se forra no testamento de Maria Fernandes
+1 ASSO @I294@
+2 TYPE SENHOR
+0 @I2076@ INDI
+1 NAME José
+1 SEX M
+1 SOUR 18530925 - batismo de José.pdf
+1 BIRT
+2 DATE 25 SET 1853
+2 PLAC Turvo, Minas Gerais, Brasil
+1 FAMC @F61@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -23877,6 +23922,7 @@
 1 CHIL @I154@
 1 CHIL @I142@
 1 CHIL @I76@
+1 CHIL @I2076@
 1 MARR
 2 DATE aproximadamente 1847
 0 @F62@ FAM
@@ -28849,5 +28895,9 @@
 0 @F837@ FAM
 1 HUSB @I1704@
 1 WIFE @I2071@
+1 MARR
+0 @F838@ FAM
+1 HUSB @I2073@
+1 WIFE @I2074@
 1 MARR
 0 TRLR
